@@ -28,6 +28,7 @@ a:hover, a:active{
     color:#eee;
 }
 table, tr, th, td, caption{
+    text-align: left;
     border-collapse: collapse;
     padding: 1rem;
 }
