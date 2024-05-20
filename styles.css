@@ -2,13 +2,21 @@ header{
     text-align: center;
 }
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 50px;
     margin-bottom: 50px;
     padding-left: 100px;
     padding-right: 100px;
     background-color: #222;
     color:whitesmoke;
+}
+.center{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
 }
 a{
     color:aliceblue;
