@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 0px;
+    background-color: #222;
+    color:whitesmoke;
+}
+a{
+    color:aliceblue;
+}
+a:visited{
+    color:lightgray;
+}
+a:hover, a:active{
+    color:#eee;
+}
+table, tr, th, td, caption{
+    border-collapse: collapse;
+    padding: 1rem;
+}
