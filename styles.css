@@ -30,10 +30,10 @@ a:hover, a:active {
     color: #eee;
 }
 
-.left {
-    text-align: left;
+ul, li{
+    list-style: circle;
+    list-style-position: inside;
 }
-
 table, tr, th, td, caption {
     text-align: left;
     margin-left: auto;
