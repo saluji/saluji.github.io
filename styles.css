@@ -8,8 +8,8 @@ html {
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 5%;
-    background-color: #222;
-    color: whitesmoke;
+    background-color: #111;
+    color: #fff;
 }
 
 img,
@@ -19,16 +19,16 @@ video {
 }
 
 a {
-    color: aliceblue;
+    color: lightblue;
 }
 
 a:visited {
-    color: lightgray;
+    color: blueviolet;
 }
 
 a:hover,
 a:active {
-    color: #eee;
+    color: lightgreen;
 }
 
 ul,
